@@ -3,7 +3,7 @@ import { createBrowserRouter } from "react-router-dom";
 import Home from "../components/Home";
 import About from "../components/About";
 import Contact from "../components/Contact";
-import { ProtectedRoute } from "./Protected";
+// import { ProtectedRoute } from "./Protected";
 import ThemedComponent from "../components/ThemedComponent";
 import UseCallbackEg from "../components/UseCallbackEg";
 
